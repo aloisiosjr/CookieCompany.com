@@ -1,0 +1,6 @@
+#list of gitignore commands
+#https://github.com/github/gitignore
+
+# ignore all *.txt files
+*.txt 
+
